@@ -1,0 +1,11 @@
+autojoin_tenant_id = "12789c76-4a54-4f29-b8f9-306e1b4bf1e0"
+autojoin_client_id = "d82d2953-c0e8-4eb5-a710-44f031ba0927"
+autojoin_subscription_id = "55503692-2a72-4517-b612-91fb35891004"
+autojoin_secret_access_key = "69579215-fd3d-4cc5-bcb3-0fb73206e453"
+consul_zip_file = "https://releases.hashicorp.com/consul/1.0.3/consul_1.0.3_linux_amd64.zip"
+vault_zip_file = "https://releases.hashicorp.com/vault/0.9.3/vault_0.9.3_linux_amd64.zip"
+
+tenant_id = "12789c76-4a54-4f29-b8f9-306e1b4bf1e0"
+client_id = "2f1055d6-fbe6-4ebf-b5b9-6ddfdbd53443"
+subscription_id = "55503692-2a72-4517-b612-91fb35891004"
+client_secret = "392d4782-3b0d-4ee8-a2d0-b75835d0e127"

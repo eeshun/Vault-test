@@ -1,0 +1,12 @@
+# Compiled files
+*.tfstate
+*.tfstate.*
+
+# Plugin directory
+.terraform/
+
+# Terraform Variables
+*.tfvars
+
+# SSH Keys
+*.pem
